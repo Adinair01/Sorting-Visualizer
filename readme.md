@@ -24,11 +24,6 @@ Clone this repository to your local machine.
 
 bash
 Copy code
-git clone https://github.com/your-username/sorting-visualizer-java.git
-Navigate to the project directory.
-
-bash
-Copy code
 cd sorting-visualizer-java
 Compile and run the application.
 
@@ -46,10 +41,6 @@ Click the "Start" button to initiate the visualization.
 Observe the sorting process through the graphical representation.
 
 Experiment with different inputs, speeds, and algorithms to gain insights into the functioning of each sorting algorithm.
-
-## Contributing
-Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to create a pull request.
-
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
